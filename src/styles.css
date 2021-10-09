@@ -1,0 +1,13 @@
+/* .btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+} */
+
+:root {
+  --bs-success-rgb: 5, 199, 108;
+  --bs-success: 5, 199, 108;
+}
+body {
+  background: #343a40;
+}
